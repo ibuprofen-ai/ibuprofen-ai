@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ibuprofen-ai
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Java and JavaScript
+- 💞️ I’m looking to collaborate on basic projects
+- 📫 How to reach me: email or LinkedIn
